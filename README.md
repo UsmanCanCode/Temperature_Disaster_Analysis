@@ -14,3 +14,5 @@ Also. pulled in a list of all cities around the world to serve as a foundation f
   <li> EDA: Explored Data and Performed Data Analysis</li>
   <li> ML: Used ARIMA Model to Predict Trends</li>
 </ul>
+
+<a href="https://github.com/UsmanCanCode/Temperature_Disaster_Analysis/blob/main/Data_Analysis_Temperature_Disaster.ipynb">View the Colab Notebook for detailed analysis and visuals</a>

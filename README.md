@@ -9,7 +9,7 @@ Also. pulled in a list of all cities around the world to serve as a foundation f
 
 <p> Task performed for the the Data Analysis Project:</p>
 <ul>
-  <li> ETL: Extacted and Sourced the Data into project</li>
+  <li> ETL: Extracted and Sourced the Data into project</li>
   <li> Data Cleaning: Combined and Transformed Data</li>
   <li> EDA: Explored Data and Performed Data Analysis</li>
   <li> ML: Used ARIMA Model to Predict Trends</li>
